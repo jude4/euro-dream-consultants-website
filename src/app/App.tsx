@@ -5,6 +5,7 @@ import { Home } from './pages/Home';
 import { StudyInEurope } from './pages/StudyInEurope';
 import { WorkInEurope } from './pages/WorkInEurope';
 import { Contact } from './pages/Contact';
+import { FloatingContact } from './components/FloatingContact';
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 
@@ -34,6 +35,7 @@ export default function App() {
           </Routes>
         </main>
         <Footer />
+        <FloatingContact />
       </div>
     </Router>
   );
