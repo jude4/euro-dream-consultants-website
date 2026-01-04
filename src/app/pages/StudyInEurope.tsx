@@ -19,11 +19,11 @@ export function StudyInEurope() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+              <h1 className="text-3xl md:text-5xl font-bold mb-6 leading-tight">
                 Shape Your Future with
                 <span className="text-[#D4A85E]"> World-Class Education</span>
               </h1>
-              <p className="text-xl text-white/90 mb-8 leading-relaxed max-w-2xl">
+              <p className="text-lg text-white/90 mb-8 leading-relaxed max-w-2xl">
                 Access top-ranked universities, diverse cultures, and affordable education across Europe. We guide you through every step of your academic journey.
               </p>
               <div className="flex gap-4">
@@ -100,7 +100,7 @@ export function StudyInEurope() {
       <section className="py-20 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-[#0D4D85] text-4xl font-bold mb-4">Why Study in Europe?</h2>
+            <h2 className="text-[#0D4D85] text-3xl font-bold mb-4">Why Study in Europe?</h2>
             <div className="h-1 w-24 bg-[#D4A85E] mx-auto rounded-full"></div>
           </div>
           
@@ -140,7 +140,7 @@ export function StudyInEurope() {
       <section className="py-20 px-4 bg-[#0D4D85]/5">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-16 items-center">
           <div className="md:w-1/2">
-            <h2 className="text-[#0D4D85] text-4xl font-bold mb-8">Comprehensive Admission Support</h2>
+            <h2 className="text-[#0D4D85] text-3xl font-bold mb-8">Comprehensive Admission Support</h2>
             <div className="space-y-6">
               {[
                 "University Shortlisting & Selection",
@@ -181,8 +181,8 @@ export function StudyInEurope() {
       {/* CTA */}
       <section id="admission-process" className="py-24 px-4 bg-[#0D4D85] text-white text-center">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-4xl font-bold mb-6">Ready to Start Your Journey?</h2>
-          <p className="text-xl text-white/80 mb-10">
+          <h2 className="text-3xl font-bold mb-6">Ready to Start Your Journey?</h2>
+          <p className="text-lg text-white/80 mb-10">
             Book a free consultation with our education counselors today and take things forward.
           </p>
           <Link to="/#contact" className="inline-flex items-center gap-2 bg-[#D4A85E] text-white px-10 py-5 rounded-full font-bold text-lg hover:bg-[#b88e4b] transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1">

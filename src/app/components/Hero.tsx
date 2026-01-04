@@ -8,10 +8,10 @@ export function Hero() {
     >
       <div className="max-w-7xl mx-auto">
         <div className="max-w-2xl">
-          <h1 className="text-white text-5xl mb-4">
+          <h1 className="text-white text-3xl md:text-5xl mb-4">
             YOUR GATEWAY TO EUROPEAN<br />EDUCATION & CAREERS
           </h1>
-          <p className="text-white text-xl mb-8">
+          <p className="text-white text-lg mb-8">
             Unlock your future with Euro Dream Consultants
           </p>
           <div className="flex gap-4">

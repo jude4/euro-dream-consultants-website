@@ -46,11 +46,11 @@ export function Contact() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <h1 className="text-5xl md:text-7xl font-black mb-6">
+            <h1 className="text-4xl md:text-6xl font-black mb-6">
               Let's Start Your <br />
               <span className="text-[#D4A85E]">European Journey</span>
             </h1>
-            <p className="text-xl text-white/70 max-w-2xl mx-auto leading-relaxed">
+            <p className="text-lg text-white/70 max-w-2xl mx-auto leading-relaxed">
               Have questions about study programs or work permits? Our expert consultants are ready to guide you across the continent.
             </p>
           </motion.div>

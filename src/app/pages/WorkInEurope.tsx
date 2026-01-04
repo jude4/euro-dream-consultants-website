@@ -34,11 +34,11 @@ export function WorkInEurope() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <h1 className="text-5xl md:text-7xl font-bold mb-8 leading-tight">
+            <h1 className="text-4xl md:text-6xl font-bold mb-8 leading-tight">
               Your Professional <br />
               <span className="text-[#D4A85E]">Future in Europe</span>
             </h1>
-            <p className="text-xl text-white/80 mb-10 leading-relaxed max-w-xl">
+            <p className="text-lg text-white/80 mb-10 leading-relaxed max-w-xl">
               Unlock extraordinary opportunities in the world's most stable economies. We provide the bridge between your skills and Europe's biggest industries.
             </p>
             <div className="flex flex-wrap gap-4">
@@ -101,7 +101,7 @@ export function WorkInEurope() {
       <section className="py-24 px-4 relative">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-20">
-            <h2 className="text-[#0D4D85] text-4xl md:text-5xl font-bold mb-6">High Growth Industries</h2>
+            <h2 className="text-[#0D4D85] text-3xl md:text-4xl font-bold mb-6">High Growth Industries</h2>
             <p className="text-gray-500 max-w-2xl mx-auto text-lg">Europe's economic powerhouses are actively seeking talented international professionals like you.</p>
           </div>
 
@@ -136,7 +136,7 @@ export function WorkInEurope() {
           <div className="flex flex-col lg:flex-row gap-16 items-center">
             <div className="lg:w-1/3">
               <span className="text-[#D4A85E] font-bold tracking-[0.2em] mb-4 block">PROCESS HUB</span>
-              <h2 className="text-4xl md:text-5xl font-bold mb-8">The EuroPath Timeline</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-8">The EuroPath Timeline</h2>
               <p className="text-white/70 text-lg leading-relaxed mb-10">
                 A simple, transparent 4-stage process designed to take you from your home country to a successful career in Europe.
               </p>
@@ -177,7 +177,7 @@ export function WorkInEurope() {
       <section className="py-24 px-4 bg-gray-50">
          <div className="max-w-7xl mx-auto">
             <div className="text-center mb-16">
-               <h2 className="text-[#0D4D85] text-4xl font-bold">Visa Solutions</h2>
+               <h2 className="text-[#0D4D85] text-3xl font-bold">Visa Solutions</h2>
             </div>
             
             <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
@@ -219,11 +219,11 @@ export function WorkInEurope() {
              whileInView={{ scale: 1, opacity: 1 }}
              viewport={{ once: true }}
            >
-              <h2 className="text-4xl md:text-6xl font-black text-white mb-8">
+              <h2 className="text-3xl md:text-5xl font-black text-white mb-8">
                  Ready to make the <br /> 
                  <span className="text-[#D4A85E]">Great European Move?</span>
               </h2>
-              <p className="text-white/60 text-xl max-w-2xl mx-auto mb-12">
+              <p className="text-white/60 text-lg max-w-2xl mx-auto mb-12">
                  Join 5,000+ professionals who receive our weekly job alerts and visa guidance. Your European dream is just one click away.
               </p>
               <div className="flex flex-col sm:flex-row gap-6 justify-center">
